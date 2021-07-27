@@ -3,29 +3,26 @@ setInterval(function(){
     var titles=[
 "|c|",
 "|co|",
-"|cor|",
-"|cort|",
-"|corte|",
-"|cortex|",
-"|cortex o|",
-"|cortex on|",
-"|cortex on t|",
-"|cortex on to|",
-"|cortex on top|",
-"|cortex on top|",
-"|cortex on top|",
-"|cortex on to|",
-" |cortex on t|",
-"  |cortex on|",
-"   |cortex o|",
-"    |cortex |",
-"     |cortex|",
-"      |corte|",
-"       |cort|",
-"        |cor|",
-"         |co|",
-"          |c|",
-"           ||",
+"|cof|",
+"|coff|",
+"|coffi|",
+"|coffi o|",
+"|coffi on|",
+"|coffi on t|",
+"|coffi on to|",
+"|coffi on top|",
+"|coffi on top|",
+"|coffi on top|",
+"|coffi on to|",
+" |coffi on t|",
+"  |coffi on|",
+"   |coffi o|",
+"    |coffi|",
+"     |coff|",
+"      |cof|",
+"       |co|",
+"        |c|",
+"          ||",
 
 ]
 
@@ -34,4 +31,4 @@ setInterval(function(){
     }
     document.title = titles[i];
     i++;
-}, 900);
+}, 500);
